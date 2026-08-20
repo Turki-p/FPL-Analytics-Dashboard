@@ -61,7 +61,16 @@ RETURN OpponentShort & " " & HA
 
 ## 📸 Screenshots
 
-> *(Add your dashboard screenshots here)*
+<img width="1311" height="826" alt="image" src="https://github.com/user-attachments/assets/b17e30fa-3f63-4f25-b75a-5d9a5f371c5d" />
+<img width="1321" height="835" alt="image" src="https://github.com/user-attachments/assets/08d5049c-1023-43a2-ac7c-29b360f5bd9e" />
+<img width="1321" height="841" alt="image" src="https://github.com/user-attachments/assets/b46eb6ae-292e-453d-b77d-7c66d0352e51" />
+<img width="1312" height="840" alt="image" src="https://github.com/user-attachments/assets/11e3d3f4-035d-4efb-a432-61dfd72df3c9" />
+<img width="1289" height="786" alt="image" src="https://github.com/user-attachments/assets/4e6f8ea8-6916-4644-9854-0837e273fbfa" />
+
+
+
+
+
 
 ## 📝 Notes
 
